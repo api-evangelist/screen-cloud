@@ -64,5 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ScreenCloud is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by point-nine) and added to the network as a stub for full-pipeline profiling.
-- https://screen.cloud
+ScreenCloud provides a cloud‑based digital signage platform that lets users create, schedule, and display content across any screen or TV. The service supports a wide range of hardware, offers remote device management, integrates with popular apps, and includes analytics dashboards. It targets businesses of all sizes, from retail and education to healthcare and logistics, enabling centralized control of visual communications.
+
+**Areas:** Company · DigitalSignage · SaaS · Cloud · Marketing
+
+## ScreenCloud on APIs.io
+
+Everything profiled for ScreenCloud is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/screen-cloud/](https://apis.io/providers/screen-cloud/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [ScreenCloud API](https://apis.io/apis/screen-cloud/screencloud-api/) — API for managing digital signage content and devices.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Screen Cloud Domain Security](https://apis.io/security/screen-cloud/screen-cloud-domain-security/)
+- [Screen Cloud Trust Center](https://apis.io/security/screen-cloud/screen-cloud-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Screen Cloud Plans Pricing](https://apis.io/plans/screen-cloud/screen-cloud-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://screen.cloud)
+- [Documentation](https://screencloud.com/resources?content_types=articles)
+- [Getting started](https://screencloud.com/get-started)
+- [Pricing](https://screencloud.com/pricing)
+- [Support](https://screencloud.com/support)
+- [Blog](https://screencloud.com/resources?content_types=articles)
+- [Security](https://screencloud.com/security)
+- [Compliance](https://screencloud.com/security)
+- [Terms of service](https://screencloud.com/terms)
+- [Privacy policy](https://screencloud.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 34.3** — thin · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 75.8 |
+
+**Agent readiness 9.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/screen-cloud/](https://apis.io/providers/screen-cloud/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ScreenCloud: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/screen-cloud/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
